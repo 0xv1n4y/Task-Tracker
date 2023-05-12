@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Shopping",
+      "day": "Monday",
+      "remainder": true,
+      "id": 1
+    },
+    {
+      "text": "Meeting",
+      "day": "10-12-2022  Sunday",
+      "remainder": true,
+      "id": 2
+    }
+  ]
+}
