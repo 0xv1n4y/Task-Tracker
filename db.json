@@ -1,16 +1,22 @@
 {
   "tasks": [
     {
-      "text": "Shopping",
-      "day": "Monday",
+      "text": "React class",
+      "day": "monday",
       "remainder": true,
-      "id": 1
+      "id": 3
     },
     {
-      "text": "Meeting",
-      "day": "10-12-2022  Sunday",
+      "text": "Breakfast",
+      "day": "TuesDay 10:30",
       "remainder": true,
-      "id": 2
+      "id": 4
+    },
+    {
+      "text": "react -js",
+      "day": "",
+      "remainder": true,
+      "id": 5
     }
   ]
 }
