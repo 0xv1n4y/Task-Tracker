@@ -4,7 +4,7 @@
 
 Task-Tracker is a web application designed to help users manage their daily tasks efficiently. This application is built using React.js for the front-end and utilizes a JSON server to store and retrieve task data.
 
-# LIVE-AT :"homepage": "http://0xv1n4y.github.io/Task-Tracker"
+# LIVE-AT : "http://0xv1n4y.github.io/Task-Tracker"
 
 
 
